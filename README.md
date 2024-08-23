@@ -1,4 +1,8 @@
 <h1 align="center">¡Hola! Soy Ignacio 👋</h1>
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQFfsTIa4CwCKQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1698287720809?e=1729728000&v=beta&t=Gpy_Y1klKIa1EGtNm8onzDUh_3JtQSOcnZXZz-AeubY" alt="Mi Foto Principal" width="200" height="200" style="border-radius: 50%;">
+</p>
+
 <h2>✌️ Sobre Mí</h2>
 <p>💻 Soy un apasionado por el <strong>Desarrollo Web FrontEnd</strong> y <strong>Ciberseguridad</strong></p>
 <p>🏋️ Me gusta realizar deporte y cuidar mi alimentación</p>
