@@ -4,7 +4,7 @@
 </p>
 
 <h2>✌️ Sobre Mí</h2>
-<p>💻 Soy un apasionado por el <strong>Desarrollo Web FrontEnd</strong></p>
+<p>💻 Soy un apasionado por el <strong>Desarrollo Web FrontEnd & BackEnd</strong></p>
 <p> Junto con la Municipalidad de Molina he creado y dictado talleres para ayudar a Pymes </p>
 <p>🏋️ Me gusta realizar deporte y cuidar mi alimentación</p>
 
