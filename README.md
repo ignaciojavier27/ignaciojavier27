@@ -4,7 +4,7 @@
 <p> Junto con la Municipalidad de Molina he creado y dictado talleres para ayudar a Pymes </p>
 <p>🏋️ Me gusta realizar deporte y cuidar mi alimentación</p>
 
-<h2 align="center">Hablemos!</h2>
+<h2 align="center">¡Hablemos!</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/ignacioo.js"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
